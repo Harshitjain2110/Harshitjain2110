@@ -5,6 +5,8 @@ I am a pre-final year BTech student at NIT Jalandhar and my aim is to get into a
 
 - 🌱 I’m currently learning **Javascript**
 
+- ⚡ Enthusiastic for **Machine Learning**
+
 - 📫 How to reach me **jainharshit21102000@gmail.com**
 
 - Portfolio **https://harshitjain2110.github.io/Portfolio-Website/**
