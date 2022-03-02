@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+<h3 align="center">A passionate FullStack Web developer</h3>
 <img src="https://cdn.dribbble.com/users/508588/screenshots/14600788/media/ed85d9e7bb01870d2241107de9b64124.jpg" alt="developer pic" width="45%" align="right">
 I am a pre-final year BTech student at NIT Jalandhar and my aim is to get into an organization where my skills are used for the growth of both the organization and myself with constant learning in the process that would contribute to my future prospects.
 
